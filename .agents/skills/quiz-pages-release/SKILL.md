@@ -5,7 +5,7 @@ description: 开发和维护高校资格证刷题产品，处理题库导入、�
 
 # 高校资格证刷题产品开发与维护
 
-本技能随 education-psychology-quiz 产品仓库维护。先读仓库 README.md、项目交接.md、package.json 与 .openai/hosting.json，核对当前源码、线上版本和实际绑定，路径均以产品仓库根目录为基准。
+本技能随 shauti-gaoxiaozigezheng 产品仓库维护。先读仓库 README.md、项目交接.md、package.json 与 .openai/hosting.json，核对当前源码、线上版本和实际绑定，路径均以产品仓库根目录为基准。
 
 ## 产品开发
 
